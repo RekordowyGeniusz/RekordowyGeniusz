@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekordowygeniusz&label=Profile%20views&color=0e75b6&style=flat" alt="rekordowygeniusz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rekordowygeniusz" alt="rekordowygeniusz" /></a> </p>
-
 - 🌱 I’m currently learning **a lot of programming stuff like Express.js, Node.js etc.**
 
 - 💬 Ask me about **everything what you need**
