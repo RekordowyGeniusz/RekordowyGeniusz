@@ -1,7 +1,7 @@
 <h1 align="center">Hello there</h1>
 <h3 align="center">I'm exploring the ways of programming.</h3>
 
-- 🌱 I’m currently learning **a lot of programming stuff like Express.js, Node.js etc.**
+- 🌱 I’m currently **making some funny stuff with Lua**
 
 - 💬 Ask me about **everything what you need**
 
