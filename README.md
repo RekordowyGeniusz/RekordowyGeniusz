@@ -1,11 +1,7 @@
-<h1 align="center">Hello there</h1>
-<h3 align="center">I'm exploring the ways of programming.</h3>
+<h1 align="center">Hello there!</h1>
 
-- 🌱 I’m currently **making some funny stuff with Lua**
-
-- 💬 Ask me about **everything what you need**
-
-- ⚡ Fun fact **I really like cheese.**
+I'm currently exploring the ways of programming, one line of code at a time.
+If you need anything from me, feel free to reach out!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
