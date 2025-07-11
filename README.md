@@ -2,6 +2,7 @@
 
 <p>I'm currently exploring the ways of programming, one line of code at a time.</p>
 <p>If you need anything from me, feel free to reach out!</p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
