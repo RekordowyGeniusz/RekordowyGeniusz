@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!</h1>
 
-<h6>I'm currently exploring the ways of programming, one line of code at a time.</h6>
-<h6>If you need anything from me, feel free to reach out!</h6>
+<h5>I'm currently exploring the ways of programming, one line of code at a time.</h5>
+<h5>If you need anything from me, feel free to reach out!</h5>
 <br>
 
 <h3 align="left">Connect with me:</h3>
